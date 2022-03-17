@@ -7,7 +7,7 @@ namespace Program
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Novo!");
+            Console.WriteLine("Zašto nisan lipa ko Duje :((?");
         }
     }
 }
