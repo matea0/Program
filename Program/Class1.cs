@@ -9,6 +9,7 @@ namespace Program
         static void ClassMethod(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Promjena");
         }
     }
 }
