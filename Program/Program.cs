@@ -8,6 +8,7 @@ namespace Program
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Zašto nisan lipa ko Duje :((?");
+            
         }
     }
 }
